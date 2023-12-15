@@ -1,7 +1,7 @@
 {
   "name": "bedjono-website",
   "version": "0.1.0",
-  "homepage": "https://K2isTi4n.github.io/bedjono-website",
+  "homepage": "https://kristian-adi.github.io/bedjonocafe",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
